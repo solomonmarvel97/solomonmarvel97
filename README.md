@@ -2,7 +2,7 @@
 
 # 👨‍🚀 🚀 👨‍💻
 
-I am a 23 year old Software Engineer from Nigeria. I am currently working as a technology partner with 7 startups, working on client centered data solutions along side a couple of awesome engineers, designers and other creatives. I am passionate about doing research in artificial intelligence, machine learning, natural science and space exploration. I have developed several solutions for small/medium scale businesses such as inventory and hr solutions, educational and health systems etc. over the past few years.
+I am a 23 year old Software Engineer from Nigeria. I am currently working as a technology partner with 7 startups, working on client centered data solutions along side a couple of awesome engineers, designers and other creatives. I am passionate about doing research in artificial intelligence, machine learning, natural science and space exploration. I've been programming for a couple of years now and over these period i've developed some solutions for a several businesses such as inventory and HR management solutions, customer management solutions, educational and health systems etc.
 
 Click <b> <a href="http://marv.boltcliq.com">Here</a></b> to learn more about me!
 
@@ -28,7 +28,6 @@ Click <b> <a href="http://marv.boltcliq.com">Here</a></b> to learn more about me
 I am the captain of this ship. This ship 🛰️ sails at __27,580 km/h__ (or 17,130 mph). Crazy, isn't it? Well grab the firm handle closest to you because we are gonna go warp speed to know my universe. 
 
 (I copied this). As an engineer, trust me we do that alot.
-
 
 
 [Send me a mail](mailto:solomonmarvel@hotmail.com?subject=[GitHub])
