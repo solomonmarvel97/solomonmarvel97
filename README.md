@@ -26,4 +26,4 @@ Click <b> <a href="http://marv.boltcliq.com">Here</a></b> to learn more about me
 - 👷‍♂️ Experience: 10 years
 - 🎼 Hobbies: Cooking 👨‍🍳, Reading 📖, Teaching 👨‍🏫
 
-Click <b> <a href=mailto:"solomonmarvel@hotmail.com">Mail</a></b> to send a mail
+[Mail Solomon Marvelous](mailto:solomonmarvel@hotmail.com?subject=[GitHub]%20Source%20Han%20Sans)
