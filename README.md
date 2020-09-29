@@ -2,7 +2,7 @@
 
 # 👨‍🚀 🚀 👨‍💻
 
-I am a 23 year old Software Engineer from Nigeria. I am currently working as a technology partner with 7 startups, working on client centered data solutions along side a couple of awesome engineers, designers and other creatives. I am passionate about doing research in artificial intelligence, machine learning, natural science and space exploration. I've been programming for a couple of years now and over these period i've developed some solutions for a several businesses such as inventory and HR management solutions, customer management solutions, educational and health systems etc.
+I work on client centered data solutions along side a couple of awesome engineers, designers and other creatives. I am passionate about doing research in artificial intelligence, machine learning, natural science and space exploration. 
 
 Click <b> <a href="http://marv.boltcliq.com">Here</a></b> to learn more about me!
 
@@ -15,19 +15,12 @@ Click <b> <a href="http://marv.boltcliq.com">Here</a></b> to learn more about me
   <img align="right" src="https://media.giphy.com/media/j2NDJZct5aXPzQItQ9/giphy.gif" width="300" height="300" />
 </p>
 
-
 - 🌌 I’m currently working remotely and i love what i do. 😍
-- 🔭 I’m currently building SaaS based solutions and large Enterprise sofrware development.
 - 👯 I’m looking to collaborate on any projects related to (but not limited to) Artificial Intelligence, Computer Vision, applications of ML/DL in CV/Audio domain and Robotics
+
 - ✨ Pronouns: He/him
 - 🛸 Code Stack: Languages( Rust, C++,Python, Javascript )
 - 👷‍♂️ Experience: 10 years
 - 🎼 Hobbies: Cooking 👨‍🍳, Reading 📖, Teaching 👨‍🏫
-
-
-I am the captain of this ship. This ship 🛰️ sails at __27,580 km/h__ (or 17,130 mph). Crazy, isn't it? Well grab the firm handle closest to you because we are gonna go warp speed to know my universe. 
-
-(I copied this). As an engineer, trust me we do that alot.
-
 
 [Send me a mail](mailto:solomonmarvel@hotmail.com?subject=[GitHub])
