@@ -23,4 +23,16 @@ Click <b> <a href="http://marv.boltcliq.com">Here</a></b> to learn more about me
 - 👷‍♂️ Experience: 10 years
 - 🎼 Hobbies: Cooking 👨‍🍳, Reading 📖, Teaching 👨‍🏫
 
+ease
+https://bit.ly/3qdBb4a
+
+Personal website
+Https://bit.ly/3hvxBiN
+
+learnguagehub
+https://bit.ly/3oFvF9X
+
+
+[Send me a mail](mailto:marvelous@boltcliq.com?subject=[GitHub])
 [Send me a mail](mailto:solomonmarvel@hotmail.com?subject=[GitHub])
+
