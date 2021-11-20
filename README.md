@@ -2,7 +2,7 @@
 
 # 👨‍🚀 🚀 👨‍💻
 
-I work on client centered data solutions along side a couple of awesome engineers, designers and other creatives. I am passionate about doing research in artificial intelligence, machine learning, natural science and space exploration. 
+I'm a seasoned software engineer and coach with a proven track record in the computer software sector. Systems architecture and design, AI/ML, and blockchain systems are among my specialties. An enthusiastic technical leader delivering software solutions for individuals and businesses, an avid contributor and maintainer of open-source projects with a strong focus on programming language runtime, software performance, modular code, and developer tools, an engineering professional who is passionate about building robust systems to drive humanity's future, an optimistic technical leader delivering software solutions for individuals and businesses, and an avid contributor and maintainer of open-source projects with a strong focus on programming language runtime, software performance, modular code, and developer tools. 
 
 Click <b> <a href="http://marv.boltcliq.com">Here</a></b> to learn more about me!
 
@@ -19,22 +19,27 @@ Click <b> <a href="http://marv.boltcliq.com">Here</a></b> to learn more about me
 - 👯 I’m looking to collaborate on any projects related to (but not limited to) Artificial Intelligence, Computer Vision, applications of ML/DL in CV/Audio domain and Robotics
 
 - ✨ Pronouns: He/him
-- 🛸 Code Stack: Languages( Rust, C++,Python, Javascript )
-- 👷‍♂️ Experience: 11 years
-- 🎼 Hobbies: Cooking 👨‍🍳, Reading 📖, Teaching 👨‍🏫
+- 🛸 Code Stack: Languages( Rust, Go, C++, Python, Javascript, Typescript )
+- 👷‍♂️ Experience: 11+ years
+- 🎼 Hobbies: Cooking 👨‍🍳, Reading 📖, Mentoring 👨‍🏫
 
 Personal website
-Https://bit.ly/3hvxBiN
+https://solomonmarvel.com
 
 
 Most recent works (2 months or less):
 
-utcolab
+Products
+https://topcorp.co
+https://topskill.org
+https://easyfood.com
 https://utcolab.org
+https://wakabot.com
 
-learnguagehub
-https://bit.ly/3oFvF9X
+Agency
+https://boltcliq.com
 
-
-[Send me a mail](mailto:solomonmarvel@hotmail.com?subject=[GitHub])
+websites
+https://nwosuamaka.com
+https://solomonmarvel.com
 
