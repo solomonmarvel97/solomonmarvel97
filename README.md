@@ -22,12 +22,16 @@ Click <b> <a href="http://marv.boltcliq.com">Here</a></b> to learn more about me
 - 🛸 Code Stack: Languages( Rust, Go, C++, Python, Javascript, Typescript )
 - 👷‍♂️ Experience: 11+ years
 - 🎼 Hobbies: Cooking 👨‍🍳, Reading 📖, Mentoring 👨‍🏫
+- 
 
-Personal website
-https://solomonmarvel.com
+Products
+> **Top Corporation** [https://topcorp.co]
+> **Topskill** [https://topskill.org]
+> **Easyfood** [https://easyfood.ng]
+> **Utcolab** [https://utcolab.org]
 
-|Products.       |`https://topcorp.co`, `https://topskill.org`            |
-|                |`https://easyfood.com`, `https://utcolab.org`           |
-|Agency          |`https://boltcliq.com`                                  |
-|Website         |`https://solomonmarvel.com`, `https://nwosuamaka.com`   |
+Agency
+> **Boltcliq** [https://boltcliq.com]
+
+> **Personal Website** [https://solomonmarvel.com]
 
