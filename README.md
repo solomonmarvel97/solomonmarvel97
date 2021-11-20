@@ -26,20 +26,8 @@ Click <b> <a href="http://marv.boltcliq.com">Here</a></b> to learn more about me
 Personal website
 https://solomonmarvel.com
 
-
-Most recent works (2 months or less):
-
-Products
-https://topcorp.co
-https://topskill.org
-https://easyfood.com
-https://utcolab.org
-https://wakabot.com
-
-Agency
-https://boltcliq.com
-
-websites
-https://nwosuamaka.com
-https://solomonmarvel.com
+|Products.       |`https://topcorp.co`, `https://topskill.org`            |
+|                |`https://easyfood.com`, `https://utcolab.org`           |
+|Agency          |`https://boltcliq.com`                                  |
+|Website         |`https://solomonmarvel.com`, `https://nwosuamaka.com`   |
 
