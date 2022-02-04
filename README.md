@@ -1,37 +1,33 @@
-# Welcome to my **Code Station** 
+# Welcome to my **CODE STATION** 
 
-# 👨‍🚀 🚀 👨‍💻
+# 🦄 🦄 🦄
 
-I'm a seasoned software engineer and coach with a proven track record in the computer software sector. Systems architecture and design, AI/ML, and blockchain systems are among my specialties. An enthusiastic technical leader delivering software solutions for individuals and businesses, an avid contributor and maintainer of open-source projects with a strong focus on programming language runtime, software performance, modular code, and developer tools, an engineering professional who is passionate about building robust systems to drive humanity's future, an optimistic technical leader delivering software solutions for individuals and businesses, and an avid contributor and maintainer of open-source projects with a strong focus on programming language runtime, software performance, modular code, and developer tools. 
+I'm a seasoned full stack software engineer and coach with a proven track record in the computer software sector focusing on Python, Systems architecture and design, AI/ML, and blockchain systems are among my specialties. 
 
-Click <b> <a href="http://marv.boltcliq.com">Here</a></b> to learn more about me!
+I'm an enthusiastic technical leader delivering software solutions for individuals and businesses with a strong focus on python programming, software performance, modular code, and developer tools, an engineering professional who is passionate about building robust systems to drive humanity's future and a contributor and maintainer of open-source projects with a strong focus on programming language runtime, software performance, modular code, architecture and development tools.
 
-<p align="center">  
-  <img align="middle" src="https://media.giphy.com/media/26uf9QPzzlKPvQG5O/giphy.gif" width="120" height="120" />
-  <img align="middle" src="https://media.giphy.com/media/USt6UttIL6e8hsK5Q7/giphy.gif" width="150" height="120" /> 
-</p> </summary>  
+Click <b><a href="http://bit.ly/solomonmarvel97">Here</a></b> to learn more about me!
 
-<p align="center">
-  <img align="right" src="https://media.giphy.com/media/j2NDJZct5aXPzQItQ9/giphy.gif" width="300" height="300" />
-</p>
+-> 🦄 Full Stack Software Engineer [Python, AWS] | Designer | Architecture |Systems Design
+-> 👩🏽‍💻 I’m looking to collaborate on any projects related to (but not limited to) Artificial Intelligence, Computer Vision, applications of ML/DL in CV/Audio domain and Robotics
+-> 👨🏾‍🦰 **Pronouns**: He/him
+-> 🎉 **Code Stack**: Languages( Python, AWS, Javascript, C++, Rust, Typescript )
+-> 👷🏾 **Experience**: 11+ years programming experience,
+-> 🏆 **Hobbies**: Cooking, Reading, Coach
 
-- 🌌 I’m currently working remotely and i love what i do. 😍
-- 👯 I’m looking to collaborate on any projects related to (but not limited to) Artificial Intelligence, Computer Vision, applications of ML/DL in CV/Audio domain and Robotics
 
-- ✨ Pronouns: He/him
-- 🛸 Code Stack: Languages( Rust, Go, C++, Python, Javascript, Typescript )
-- 👷‍♂️ Experience: 11+ years
-- 🎼 Hobbies: Cooking 👨‍🍳, Reading 📖, Mentoring 👨‍🏫
-- 
+PRODUCTS:
 
-Products
-> **Top Corporation** [https://topcorp.co]
-> **Topskill** [https://topskill.org]
-> **Easyfood** [https://easyfood.ng]
-> **Utcolab** [https://utcolab.org]
+> **TOP CORPORATION** [https://topskill.org]
+> **TOP UNIVERSE** [https://universe.topskill.org]
+> **EASYFOOD** [https://easyfood.ng]
+> **UTCOLAB** [https://utcolab.org]
 
-Agency
-> **Boltcliq** [https://boltcliq.com]
+AGENCY:
 
-> **Personal Website** [https://solomonmarvel.com]
+> **BOLTCLIQ** [https://boltcliq.com]
+
+PERSONAL WEBSITE:
+
+> **SOLOMONMARVEL** [https://bit.ly/solomonmarvel97]
 
