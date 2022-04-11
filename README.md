@@ -15,3 +15,5 @@ Click <b><a href="http://bit.ly/solomonmarvel97">Here</a></b> to learn more abou
 PRODUCTS:
 
 > **Writings** [https://topuniverse.org]
+
+![Marvelous' GitHub stats](https://github-readme-stats.vercel.app/api?username=solomonmarvel97&count_private=true)
