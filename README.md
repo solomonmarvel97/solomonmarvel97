@@ -16,6 +16,4 @@ PRODUCTS:
 
 > **Writings** [https://topuniverse.org]
 
-![Marv's GitHub stats](https://github-readme-stats.vercel.app/api?username=solomonmarvel97&count_private=true)
-
 
