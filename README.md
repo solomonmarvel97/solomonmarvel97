@@ -2,18 +2,21 @@
 
 # 🦄 🦄 🦄
 
-I'm an enthusiastic technical leader delivering software solutions for individuals and businesses with a strong focus on python programming, software performance, modular code, and developer tools, an engineering professional who is passionate about building robust systems to drive humanity's future and a contributor and maintainer of open-source projects with a strong focus on programming language runtime, software performance, modular code, architecture and development tools.
+![alt text]([image.jpg](https://raw.githubusercontent.com/louislam/louislam/output/github-contribution-grid-snake.svg))
 
-Click <b><a href="http://bit.ly/solomonmarvel97">Here</a></b> to learn more about me!
+- I'm an enthusiastic technical leader 
+- Building @topuniverse
+- Delivering software solutions for individuals and businesses
+- Love modular code
+- Love Developer & Design Toolings
 
--> 🦄 Full Stack Software Engineer [Python, AWS, NodeJS] | Architect | Systems Design
--> 👩🏽‍💻 I’m looking to collaborate on any projects related to (but not limited to) Artificial Intelligence, Computer Vision, applications of ML/DL in CV/Audio domain and Robotics
+- 🦄 Software Architect/Engineer 
+- [Python, AWS, NodeJS] | Architect | Systems Design
+- 👩🏽‍💻 I enjoy talking about AI, Computer Vision, Computer Science & Open Source
 
--> 👷🏾 **Experience**: 11+ years programming experience,
-
-
-PRODUCTS:
-
-> **Writings** [https://topuniverse.org]
+- 👷🏾 **Experience**: 11+
+- Agency [https://boltcliq.com]
+- Startup [https://topuniverse.org]
+- My Website [https://solomonmarvel.com]
 
 
