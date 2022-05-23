@@ -2,7 +2,7 @@
 
 # 🦄 🦄 🦄
 
-![alt text]([image.jpg](https://raw.githubusercontent.com/louislam/louislam/output/github-contribution-grid-snake.svg))
+![game lol](https://raw.githubusercontent.com/louislam/louislam/output/github-contribution-grid-snake.svg)
 
 - I'm an enthusiastic technical leader 
 - Building @topuniverse
