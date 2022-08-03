@@ -1,22 +1,11 @@
-# Welcome to my **CODE STATION** 
-
-# 🦄 🦄 🦄
-
 ![game lol](https://raw.githubusercontent.com/louislam/louislam/output/github-contribution-grid-snake.svg)
 
-- I'm an enthusiastic technical leader 
+- Solutions Architect
 - Building @topuniverse
-- Delivering software solutions for individuals and businesses
-- Love modular code
-- Love Developer & Design Toolings
+- Building @foodland
+- Love Architecture & Modular Code
+- CS Instructor
+- [C++, Rust, Python, AWS, NodeJS]
+- Let's talk A.I, Computer Science & Open Source
 
-- 🦄 Software Architect/Engineer 
-- [Python, AWS, NodeJS] | Architect | Systems Design
-- 👩🏽‍💻 I enjoy talking about AI, Computer Vision, Computer Science & Open Source
-
-- 👷🏾 **Experience**: 11+
-- Agency [https://boltcliq.com]
-- Startup [https://topuniverse.org]
-- My Website [https://solomonmarvel.com]
-
-
+[https://solomonmarvel.com]
