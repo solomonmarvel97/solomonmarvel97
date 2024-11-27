@@ -1,4 +1,4 @@
-# 👋 Marv Magic!
+# 👋 Marv Magic! - The Professional Market Man
 
-Feel free to reach out to me at [me@solomonmarvel.com] or connect on [LinkedIn](https://www.linkedin.com/in/superdeveloper/).
+Connect @ [me@solomonmarvel.com] or on [LinkedIn](https://www.linkedin.com/in/superdeveloper/).
 
