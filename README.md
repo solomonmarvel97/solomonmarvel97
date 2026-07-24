@@ -43,7 +43,7 @@ Lagos, Nigeria · [solomonmarvel.com](https://solomonmarvel.com) · [LinkedIn](h
 | Role | Organisation |
 |------|----------------|
 | Founder & CEO | [JobBox](https://getjobbox.com) · AI-native recruitment |
-| CTO | [PeerPay Network](https://peerpaynetwork.com) · lending & settlement |
+| CTO | [PeerPay Network](https://peerpaynetwork.com) · credit infrastructure & settlement |
 | CTO | [Luvie](https://luvie.io) · on-demand marketplace |
 | Founder & CEO | [Boltcliq Group](https://boltcliq.com) · technology holding company |
 | Founder | [Top Universe](https://topuniverse.org) · free tech education (17k+ learners) |
